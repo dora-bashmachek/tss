@@ -1,0 +1,14 @@
+
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": { 
+  "dev": "tsc && node dist/main.js",
+  "build":"tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
